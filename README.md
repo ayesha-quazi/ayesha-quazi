@@ -46,3 +46,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /></a>
 </div>
+
+[![An image of @ayeshaquazi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayeshaquazi)](https://holopin.io/@ayeshaquazi
+
+<h2><p>Show some ❤ by starring the repositories</p></h2>
