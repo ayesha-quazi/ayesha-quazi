@@ -5,7 +5,7 @@
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
 </picture>
 
-- 🌱 I’m currently learning more about: **Full Stack, Opensource and Data Structures and Algorithm.**
+- 🌱 I’m currently learning more about: **Full Stack, Open Source and Data Structures and Algorithm.**
 
 - 👯 I’m looking to collaborate on: **Projects based on React.**
 
