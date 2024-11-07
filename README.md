@@ -83,5 +83,6 @@
 <br>
 
 ![An image of @ayeshaquazi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayeshaquazi)
+<h2 align="center">Hacktoberfest 2024 ⬆</h2>
 
 <h2 align="center">Show some ❤ by starring the repositories</h2>
