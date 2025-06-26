@@ -72,26 +72,7 @@ I'm a Computer Science graduate passionate about building clean, accessible, and
 - ✅ Contributor @ beginner-friendly open-source repositories
 - ✅ Completed **Hacktoberfest 2024**
 - ✅ [Holopin Badge Wall](https://holopin.me/ayeshaquazi)
-
----
-
-## 🏁 Quick Highlights
-
-- 📌 100+ problems solved on LeetCode  
-- 💡 Building React & AI-based personal projects  
-- ✍️ Blogging on Medium: [@ayeshaquazi04](https://medium.com/@ayeshaquazi04)  
-- 🤝 Open to collaborations, internships & AI residencies  
-
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ayeshaquazi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/aayeshaquazi04)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@ayeshaquazi04)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/ayesha_quazi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ayeshaquazi1)
-📬 **aayeshaquazi04@gmail.com**
+- 💡 Building React & AI-based personal projects 
 
 ---
 
