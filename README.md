@@ -1,88 +1,98 @@
-<h1 align="center">Hi there, I'm Ayesha!</h1>
-<h3 align="center">A technocrat who always seeks an opportunity to apply learning in the real world. If you're already here, take a glimpse at my repositories on GitHub.</h3>
+<h1 align="center">Ayesha Quazi</h1>
+<h3 align="center">Frontend Developer | CS Graduate | AI & Open Source Enthusiast</h3>
 
-<picture>
-  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
-</picture>
+---
 
-- 🌱 I’m currently learning more about **Full Stack, Open Source, and Data Structures and Algorithms.**
+## 🔹 About Me
 
-- 👯 I’m looking to collaborate on **Projects based on React.**
+I'm a Computer Science graduate passionate about building clean, accessible, and purposeful web applications. Currently exploring **AI integrations**, leveling up in **full-stack development**, and contributing to **open-source**. I thrive in collaborative spaces where innovation meets impact.
 
-- 😄 Pronouns: **She/Her**
+- 🔧 Tech Stack: **C++**, **JavaScript**, **React**
+- 📚 Focus Areas: **Frontend Engineering**, **Generative AI**, **System Design**, **DSA**
+- 🎯 Current Goal: Build & deploy an AI-powered project during upcoming tech residencies
 
-- 🏆 Goal: **Contribute more to open-source projects.**
+---
 
-- 💬 Ask me about **Frontend Development**
+## 🚀 Featured Projects
 
-- 📫 How to reach me: **aayeshaquazi04@gmail.com**
+- 🎨 [**Portfolio Website**](https://github.com/ayesha-quazi/ayesha-quazi.github.io)  
+  Welcome to Ayesha's Portfolio – a showcase of my journey as a Full Stack Developer and tech enthusiast.  
+  Featuring: `ReactJS` • `Frontend-Web` • `Three.js` • `HTML/CSS/JS`  
+  🔗 [Live Site](https://ayesha-quazi.github.io/)
 
-- ⚡ **Would love to connect with like-minded people.**
+- 🧠 [**DSA Cracker**](https://github.com/ayesha-quazi/49-Days-DSA-Challenge)  
+  Sharing my daily journey of applying C++ skills to solve last-minute DSA problems (Fraz Sir’s list).  
+  Topics: `C++` • `DSA Practice` • `DSA Algorithms` • `Coding Challenges`
 
-<br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/ayeshaquazi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayeshaquazi1" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ayeshaquazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayeshaquazi" height="30" width="40" /></a>
-  <a href="https://medium.com/@ayeshaquazi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayeshaquazi04" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/aayeshaquazi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayeshaquazi04" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/ayesha_quazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayesha_quazi" height="30" width="40" /></a>
-</p>
+## 🧰 Technical Skills
 
-<br>
+**Languages:** C++, JavaScript, Python, Java  
+**Frontend:** React, HTML5, CSS3, Bootstrap  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Databases:** MySQL  
+**Others:** OpenAI API, Linux, Google Cloud (basics)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-</p>
+---
 
-<br>
+<pre align="center">
++-------------------------------------------------------------+
+| Every line I write isn't just syntax — it's a step toward   |
+|     solving real-world problems with code.                  |
++-------------------------------------------------------------+
+</pre>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-quazi&show_icons=true&locale=en&layout=compact" alt="ayesha-quazi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-quazi&" alt="ayesha-quazi" /></p>
+---
 
-<br>
+## 📜 Certifications & Courses
 
-<h2 align="center">LeetCode Streak & Progress</h2>
-<p>I’m actively working on improving my problem-solving skills through LeetCode. Here's a snapshot of my current streak and progress:</p>
-<ul>
-  <li><strong>Current Streak:</strong></li>
-</ul>
+- C++ Programming Masterclass – Abdul Bari (Udemy)  
+- Frontend Web Development – freeCodeCamp
+
+---
+
+## 📄 Resume
+
+- [📄 View Resume (Google Drive)](https://drive.google.com/file/d/1uCn2D71uGgcAR_sO3KxUHLK6KwgqOfX5/view?usp=sharing)
+
+---
+
+## 🧠 LeetCode Practice
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aayeshaquazi04?ext=heatmap" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/aayeshaquazi04?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-<p>Feel free to check out my <a href="https://leetcode.com/aayeshaquazi04/" target="_blank">LeetCode profile</a> for more details on my progress!</p>
+---
 
-<br>
+## 🏅 Highlights
 
-<h2 align="center">GSSOC(24) Badges 🪶</h2>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-</div>
+- ✅ Participant, **GSSOC 2024 – Postman Challenge**
+- ✅ Contributor @ beginner-friendly open-source repositories
+- ✅ Completed **Hacktoberfest 2024**
+- ✅ [Holopin Badge Wall](https://holopin.me/ayeshaquazi)
 
-<br>
+---
 
-![An image of @ayeshaquazi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayeshaquazi)
-<h2 align="center">Hacktoberfest 2024 ⬆</h2>
+## 🏁 Quick Highlights
 
-<h2 align="center">Show some ❤ by starring the repositories</h2>
+- 📌 100+ problems solved on LeetCode  
+- 💡 Building React & AI-based personal projects  
+- ✍️ Blogging on Medium: [@ayeshaquazi04](https://medium.com/@ayeshaquazi04)  
+- 🤝 Open to collaborations, internships & AI residencies  
+
+---
+
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ayeshaquazi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/aayeshaquazi04)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@ayeshaquazi04)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/ayesha_quazi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ayeshaquazi1)
+📬 **aayeshaquazi04@gmail.com**
+
+---
+
+<p align="center"><i>"Started with curiosity. Shaped by code. Sharpened by feedback."</i></p>
