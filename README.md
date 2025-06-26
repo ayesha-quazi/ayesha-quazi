@@ -1,4 +1,4 @@
-<h1 align="center">Ayesha Quazi</h1>
+<h1 align="center">Ayesha Quazi✨</h1>
 <h3 align="center">Frontend Developer | CS Graduate | AI & Open Source Enthusiast</h3>
 
 ---
