@@ -52,12 +52,6 @@ I'm a Computer Science graduate passionate about building clean, accessible, and
 
 ---
 
-## 📄 Resume
-
-- [📄 View Resume (Google Drive)](https://drive.google.com/file/d/1uCn2D71uGgcAR_sO3KxUHLK6KwgqOfX5/view?usp=sharing)
-
----
-
 ## 🧠 LeetCode Practice
 
 <p align="center">
